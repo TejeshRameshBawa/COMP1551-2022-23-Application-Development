@@ -1,0 +1,8 @@
+C:\Users\tejes\Desktop\Application Development\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\tejes\Desktop\Application Development\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\tejes\Desktop\Application Development\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\tejes\Desktop\Application Development\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\tejes\Desktop\Application Development\Coursework\Coursework\obj\Debug\Coursework.csproj.SuggestedBindingRedirects.cache
+C:\Users\tejes\Desktop\Application Development\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\tejes\Desktop\Application Development\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\tejes\Desktop\Application Development\Coursework\Coursework\obj\Debug\Coursework.pdb
